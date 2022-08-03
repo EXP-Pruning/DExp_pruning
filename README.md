@@ -45,8 +45,8 @@ For the ease of reproducibility. we provide some of the experimental results and
 |-----------|-----------|-----------------------------|
 | 100%      | 93.26%    |[ResNet-56](https://drive.google.com/file/d/1WE83j7rlKlCp-tslSL6hS-d_mJe4ZQ2r/view?usp=sharing)|
 | -66.52%   | 93.19%    |[Res](https://drive.google.com/file/d/1WQCfy2B7FJOtY5b2BxBa5090OVKBtZ_T/view?usp=sharing)|
-| Flops     | Accuracy  |CIFAR-100/Model              |
 |-----------|-----------|-----------------------------|
+| Flops     | Accuracy  |CIFAR-100/Model              |
 | 100%      | 70.45%    |[ResNet-56](https://drive.google.com/file/d/1FBiXRMWZCuloK62E8XK-PMzAJwxZvO4Z/view?usp=sharing)|
 | -54.67%   | 70.66%    |[Res](https://drive.google.com/file/d/1LmUX2z7d3cHDtETzRWpHCa7qbE1DibEj/view?usp=sharing)|
 
@@ -55,8 +55,8 @@ For the ease of reproducibility. we provide some of the experimental results and
 | Flops     | Accuracy  |CIFAR-10/Model               | 
 |-----------|-----------|-----------------------------|
 | 100%      | 93.50%    |[ResNet-110](https://drive.google.com/file/d/1YhJHzSBiCsQcNIdamI2_GzclpXvSXcPG/view?usp=sharing)|
-| Flops     | Accuracy  |CIFAR-100/Model              | 
 |-----------|-----------|-----------------------------|
+| Flops     | Accuracy  |CIFAR-100/Model              | 
 | 100%      | 70.37%    |[ResNet-110](https://drive.google.com/file/d/1WPnotBfIrV1T0xwsd3yigZXOiZgyJNin/view?usp=sharing)|
 | -66.89%    | 71.32%   |[Res](https://drive.google.com/file/d/1NaGZfNApo8J0z9BOXl2pFdv2QXZ5GNV1/view?usp=sharing)|
 
@@ -66,8 +66,8 @@ For the ease of reproducibility. we provide some of the experimental results and
 |-----------|-----------|-----------------------------|
 | 100%      | 95.05%    |[GoogLeNet](https://drive.google.com/file/d/1TXF2OUwkUUWBVAj5Q-QRRO2ZNVRcdmqB/view?usp=sharing)| 
 | -71.05%    | 94.75%    |[GoogLeNet](https://drive.google.com/file/d/18EDQ7nVcUpTVSIbObrNgaooPAL-Z9Wvl/view?usp=sharing)| 
-| Flops     | Accuracy  |CIFAR-100/Model              |
 |-----------|-----------|-----------------------------|
+| Flops     | Accuracy  |CIFAR-100/Model              |
 | 100%      | 76.57%    |[GoogLeNet](https://drive.google.com/file/d/1aUWIhr3NfMrQyKeb8iAwrtr5XLQ48CtW/view?usp=sharing)| 
 | -71.05%    | 76.77%    |[GoogLeNet](https://drive.google.com/file/d/1HPnoZNWdsvhvzE0D8ZEQNAPyhBlUufVN/view?usp=sharing)| 
 
